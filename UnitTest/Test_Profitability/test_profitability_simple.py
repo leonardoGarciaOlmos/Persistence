@@ -1,7 +1,7 @@
 import unittest
 
-from Profitability.Core.exceptions.my_custom_error import MyCustomError
-from Profitability.Core.services.profitability_simple import ProfitabilitySimple
+from Profitability.exceptions.my_custom_error import MyCustomError
+from Profitability.Core.profitability_simple import ProfitabilitySimple
 
 
 class TestProfitabilitySimple(unittest.TestCase):
