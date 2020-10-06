@@ -1,4 +1,4 @@
-from Profitability.Core.exceptions.my_custom_error import MyCustomError
+from Profitability.exceptions.my_custom_error import MyCustomError
 
 
 class ProfitabilitySimple:
